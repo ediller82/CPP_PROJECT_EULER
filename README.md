@@ -2,8 +2,8 @@
 Project Euler in C++
 
 ## About
-This repo includes my solutions to a growing number of Project Euler exercises, which have been implemented in C++.  The goal of this repo is to improve my problem-solving ability, prowess in C++, and general programming
-experience.
+This repo includes my solutions to a growing number of Project Euler exercises, which have been implemented in C++.  The goal of this repo is to improve my problem-solving ability, prowess in C++, and general programming experience as it relates to git and github.
+***NOTE*** This repo is created with the intention of educating myself and others and does not contain solutions to exercises above number 100, past which solutions may not be shared.
 
 ## Usage
 To compile and run a problem solution:
